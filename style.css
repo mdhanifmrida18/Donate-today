@@ -1,0 +1,74 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.back-img {
+    background-image: url(picture2.jpg);
+    background-repeat: no-repeat;
+    opacity: 80%;
+    height: 500px;
+    width: 90%;
+    margin-left: 5%;
+
+}
+
+.donate-text {
+    color: rgb(255, 255, 255);
+    width: 80%;
+    height: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 100px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.donate-now {
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px;
+    border-radius: 5px;
+
+}
+
+.money-list {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 20%;
+    margin-bottom: 50px;
+}
+
+.hulf-width {
+    padding: 40px;
+
+}
+
+.donate-today {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.taka-amount {
+    text-align: center;
+    margin-bottom: 150px;
+}
