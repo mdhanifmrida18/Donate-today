@@ -79,3 +79,48 @@ p {
     margin-right: 20%;
     margin-bottom: 80px;
 }
+
+.our-plan {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+}
+
+#food-area {
+    background-color: #abdbf7;
+    padding: 10px;
+    padding-top: 25px;
+    margin: 15px;
+}
+
+#family-area {
+    background-color: rgb(250, 210, 216);
+    padding: 10px;
+
+    margin: 15px;
+}
+
+#education-area {
+    background-color: rgb(250, 250, 214);
+    padding: 10px;
+    margin: 15px;
+}
+
+.food-collect {
+    display: flex;
+}
+
+.hulf-width {
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.hulf-width img {
+    width: 90%;
+}
+
+.margin {
+    margin-bottom: 100px;
+}
