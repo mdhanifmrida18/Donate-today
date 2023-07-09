@@ -58,7 +58,11 @@ p {
 
 .hulf-width {
     padding: 40px;
+    background-color: beige;
+}
 
+#middle {
+    background-color: rgb(233, 200, 158);
 }
 
 .donate-today {
