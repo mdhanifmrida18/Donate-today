@@ -42,11 +42,11 @@ p {
 }
 
 .donate-now {
+    color: white;
     text-decoration: none;
-    background-color: orange;
+    background-color: #4E65FF;
     padding: 15px;
     border-radius: 5px;
-
 }
 
 .money-list {
