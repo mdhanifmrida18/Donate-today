@@ -56,9 +56,12 @@ p {
     margin-bottom: 50px;
 }
 
+.second {
+    background-color: #abdbf7;
+}
+
 .hulf-width {
     padding: 40px;
-    background-color: beige;
 }
 
 #middle {
